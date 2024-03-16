@@ -1,1 +1,1 @@
-{"current_toileteries": "Sriram", "current_trash": "Nassim", "next_toileteries": "Nassim", "next_trash": "Nirmala"}
+{"dish_soap": {"current": "Nassim", "next": "Nirmala"}, "trash": {"current": "Sriram", "next": "Nassim"}, "toilet_paper": {"current": "Nassim", "next": "Nirmala"}, "hand_wash": {"current": "Sriram", "next": "Nassim"}}
