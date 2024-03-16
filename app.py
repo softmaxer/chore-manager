@@ -8,8 +8,8 @@ st.set_page_config(page_title="Epi d'or")
 page_bg_img = """
 <style>
 .st-emotion-cache-uf99v8{
-background-image: url("https://i.pinimg.com/originals/0a/5b/e5/0a5be55472c3931b8db224b35cc0c6ce.jpg");
-background-size: cover;
+background: linear-gradient(90deg, rgba(3,40,48,1) 0%, rgba(0,0,0,1) 100%);
+
 }
 .st-emotion-cache-18ni7ap{
 background: rgba(0, 0, 0, 0);
